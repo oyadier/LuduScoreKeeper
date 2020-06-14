@@ -1,2 +1,1 @@
-# LuduScoreKeeper is a ludu-like app that involve two player. They both the die one after the other and they accumulate points base on the 
-random number generated. 
+# LuduScoreKeeper is a ludu-like app that involve two players. They both toss the dices one after the other and they accumulate points base on the random number generated. A user press on Add Point button to add the mark played. Any user who reaches the target number quickly wins!!!!!
